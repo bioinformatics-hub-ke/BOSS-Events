@@ -19,6 +19,9 @@ These will include projects that will allow our participants to practice the ski
 ### 5.Conference
 This will be the culmination of the events, with our participants getting to present their work to the members of the communities, participants of all the events, facilitators, and speakers. There will be talks from different speakers, researchers, and partners. 
 
+### Reources
+All resources used and taught will be available in the GitHub repositories of each event. Find out how to contribute and collaborate in the respective repositories.
+
 ### Participate and Contribute
 Although the project targets the field of Bioinformatics, contributions from any field are welcome. You can participate in a number of ways, including:
 
