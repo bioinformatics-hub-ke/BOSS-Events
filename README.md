@@ -4,20 +4,20 @@
 The project themed “Empowering researchers with skills and tools in Open Science and Bioinformatics”, is a series of events which include open science symposium, bioinformatics workshops, instructors training, hackathons for collaborative mini-projects, and a conference. The series of events aims to blend open science and Bioinformatics, to train researchers to conduct open, reproducible, and collaborative science. These will ultimately produce a pool of students, lecturers, and early career researchers, who can conduct and lead open bioinformatics research, as well as be change-makers in their communities. 
 
 ## Events
-### 1.Open Science Fair Symposium
+### 1.[Open Science Fair Symposium](https://github.com/bioinformatics-hub-ke/Open-Science-Symposium)
 The event aims to sensitize the participants on FAIR open data science practices such as project planning and organization, collaboration, licensing, data sharing, among others, and expose them to use open science tools that facilitate these practices. See [this](https://github.com/BioinfoNet/Open-Science-Symposium) page for more information.
 
-### 2.Workshops
+### 2.[BOSS Workshops](https://github.com/bioinformatics-hub-ke/Boss-workshops)
 The aim of the workshops is to teach bioinformatics skills from beginner to advanced applications. They will first introduce beginners to basic bioinformatics skills such as basics to Unix, introduction to sequencing technologies, and more. This will be followed by intermediate training including tasks such as RNAseq analysis, variant calling, phylogeny, and more. The next training will involve training on genomic data analysis using R and Python. 
 
-### 3.Train the Trainer
+#### 3.Train the Trainer
 The instructor training program aims to train those interested in becoming trainers. They’ll be taken through best teaching practices and tools, and how to form communities. 
 
-### 4.Miniprojects
+### 4.[BOSS Miniprojects](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects)
 These will include projects that will allow our participants to practice the skills gained through the workshops and training. They get to put their creativity and knowledge to practice by reproducing works done by other researchers.
 
-### 5.Conference
-This will be the culmination of the events, with our participants getting to present their work to the members of the communities, participants of all the events, facilitators, and speakers. There will be talks from different speakers, researchers, and partners. 
+### 5.[BOSS Conference 2022](https://github.com/bioinformatics-hub-ke/BOSS22)
+This will be the culmination of the events, with our participants getting to present their work to the members of the communities, participants of all the events, facilitators, and speakers. There will be talks from different speakers, researchers, and partners. The conference website is in the following link [BOSSCon2022](https://bosscon2022.bhki.org/).
 
 ### Participate and Contribute
 Although the project targets the field of Bioinformatics, contributions from any field are welcome. You can participate in a number of ways, including:
@@ -32,7 +32,7 @@ For questions, suggestions or to participate, reach us via:
 
 Twitter: @BioinfoHub_KE or @OpenScienceKE
 
-Email: info@bhki.org or kenyabioinformaticsnetwork@gmail.com
+Email: bioinformaticshubofkenya@gmail.com or kenyabioinformaticsnetwork@gmail.com
 
 ## Acknowledgement
 We hereby acknowledge the funding for this project from [code for science and society](https://codeforscience.org/) through the [Event Fund](https://eventfund.codeforscience.org/announcing-the-new-cohort-of-event-fund-grantees/) grant.
