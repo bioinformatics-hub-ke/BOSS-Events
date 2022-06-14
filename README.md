@@ -47,4 +47,4 @@ This project has been a collaboration.
 - [Micheal Kofia](https://github.com/LandiMi2)
 - [Kennedy Mwangi](https://github.com/wanjauk)
 - [David Kiragu](https://github.com/KIRAGU-MWAURA)
-- [Pauline karega](https://github.com/karegapauline)
+- [Pauline karega](https://github.com/karegapauline) (Project Manager)
